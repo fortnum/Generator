@@ -1,0 +1,43 @@
+[
+    {
+        "year": 2021,
+        "monthNum": 9,
+        "uniqueLoginsCount": 38,
+        "usersLoginCount": 872,
+        "usersCalculationsCount": 1021,
+        "authorizatedUsers": [ "TGC1\\Vesnin.VA", "TGC1\\Patrakov.KG" ]
+    },
+    {
+        "year": 2021,
+        "monthNum": 10,
+        "uniqueLoginsCount": 42,
+        "usersLoginCount": 876,
+        "usersCalculationsCount": 1054,
+        "authorizatedUsers": [ "TGC1\\Vesnin.VA" ]
+    },
+    {
+        "year": 2021,
+        "monthNum": 11,
+        "uniqueLoginsCount": 46,
+        "usersLoginCount": 999,
+        "usersCalculationsCount": 1134,
+        "authorizatedUsers": [ "TGC1\\Patrakov.KG" ]
+
+    },
+    {
+        "year": 2021,
+        "monthNum": 12,
+        "uniqueLoginsCount": 47,
+        "usersLoginCount": 1139,
+        "usersCalculationsCount": 1240,                
+        "authorizatedUsers": [ ]
+    },
+    {
+        "year": 2021,
+        "monthNum": 8,
+        "uniqueLoginsCount": 41,
+        "usersLoginCount": 919,
+        "usersCalculationsCount": 1024,
+        "authorizatedUsers": [ "TGC1\\Vesnin.VA", "TGC1\\Patrakov.KG" ]
+    }
+]
